@@ -1,0 +1,7 @@
+year,remote_type,total,,Sum of total,Column Labels,,
+2024,Hybrid,3755,,Row Labels,2024,2025,Grand Total
+2024,Onsite,3802,,Hybrid,3755,1236,4991
+2024,Remote,3811,,Onsite,3802,1173,4975
+2025,Hybrid,1236,,Remote,3811,1223,5034
+2025,Onsite,1173,,Grand Total,11368,3632,15000
+2025,Remote,1223,,,,,
