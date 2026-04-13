@@ -7,6 +7,13 @@ To analyze global job market data and identify in-demand roles, trending skills,
 
 Job seekers and companies need insights into hiring trends, skill demand, and job distribution to make informed career and business decisions.
 
+Business Questions
+
+Which job roles are most in demand?  
+What are the most required skills across job postings?  
+Which locations have highest job opportunities?  
+What is the average salary by role?  
+
 🔹 Project Overview
 
 This project analyzes job market data using SQL to uncover trends in job roles, required skills, and hiring demand across different regions. It focuses on extracting meaningful insights from structured datasets.
