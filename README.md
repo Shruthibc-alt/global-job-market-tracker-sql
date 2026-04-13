@@ -1,4 +1,5 @@
 📊 Global Job Market Analysis (SQL Project)
+
 🎯 Project Objective
 
 To analyze global job market data and identify in-demand roles, trending skills, and hiring patterns using SQL.
@@ -36,12 +37,17 @@ Jobs by location
 🔍 Key Insights
 
 Data Analyst and Data Scientist roles show consistently high demand across regions
+
 SQL and Python are the most frequently required skills in job postings
+
 Tech and analytics roles dominate the job market
+
 Metro cities show higher job concentration compared to smaller locations
 
 🛠️ Tools Used
-SQL
+
+SQL 
+
 Excel
 
 📈 Result
@@ -51,5 +57,7 @@ The analysis helps identify key job trends, required skills, and hiring patterns
 📂 How to Use
 
 Open the dataset in SQL environment
+
 Run queries from the SQL file
+
 Analyze outputs to understand job trends
