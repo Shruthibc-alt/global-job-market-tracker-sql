@@ -40,3 +40,9 @@ Excel
 📈 Result
 
 The analysis helps identify key job trends, required skills, and hiring patterns, enabling better career and hiring decisions.
+
+📂 How to Use
+
+Open the dataset in SQL environment
+Run queries from the SQL file
+Analyze outputs to understand job trends
